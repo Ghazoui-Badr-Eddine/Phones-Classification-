@@ -252,4 +252,3 @@ def predcit_phone(title):
     return result
 
 
-predcit_phone("UNEN iphone Charger（3/3/6/6/10FT）5 Pack-Black and Blue")
